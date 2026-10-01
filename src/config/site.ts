@@ -1,3 +1,10 @@
+import heroImage from '../assets/images/psv_hero_banner_1790882435539.jpg';
+import architectureImage from '../assets/images/psv_architecture_preview_1790882448649.jpg';
+import dashboardConsoleImage from '../assets/images/psv_dashboard_console_1790884130597.jpg';
+import profilesConsoleImage from '../assets/images/psv_profiles_console_1790884145727.jpg';
+import reportsConsoleImage from '../assets/images/psv_reports_console_1790884158088.jpg';
+import terminalConsoleImage from '../assets/images/psv_terminal_console_1790884169908.jpg';
+
 export const siteConfig = {
   name: "PSV Linux Security Auditor",
   shortName: "PSV Auditor",
@@ -6,8 +13,12 @@ export const siteConfig = {
   version: "1.4.2",
   docVersion: "v1.4.x",
   githubUrl: import.meta.env.VITE_GITHUB_REPOSITORY_URL || "https://github.com/vishnu123-king/PSV-Linux-Security-Auditor.git",
-  heroImage: "/src/assets/images/psv_hero_banner_1790882435539.jpg",
-  architectureImage: "/src/assets/images/psv_architecture_preview_1790882448649.jpg",
+  heroImage,
+  architectureImage,
+  dashboardConsoleImage,
+  profilesConsoleImage,
+  reportsConsoleImage,
+  terminalConsoleImage,
   stats: {
     collectorsCount: 12,
     rulesCount: 60,
