@@ -1,0 +1,6 @@
+{
+  "name": "PSV Linux Security Auditor",
+  "description": "Official documentation, architecture, CLI reference, and onboarding portal for PSV Linux Security Auditor - automated Linux security auditing and configuration compliance platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
