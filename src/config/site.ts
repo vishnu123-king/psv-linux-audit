@@ -5,7 +5,7 @@ export const siteConfig = {
   description: "Collect real Linux security state. Evaluate it using deterministic policies. Generate evidence-backed findings. Track configuration drift. Remediate with explicit approval. Verify the result.",
   version: "1.4.2",
   docVersion: "v1.4.x",
-  githubUrl: import.meta.env.VITE_GITHUB_REPOSITORY_URL || "https://github.com/psv-security/psv-linux-security-auditor",
+  githubUrl: import.meta.env.VITE_GITHUB_REPOSITORY_URL || "https://github.com/vishnu123-king/PSV-Linux-Security-Auditor.git",
   heroImage: "/src/assets/images/psv_hero_banner_1790882435539.jpg",
   architectureImage: "/src/assets/images/psv_architecture_preview_1790882448649.jpg",
   stats: {
