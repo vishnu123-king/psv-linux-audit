@@ -34,8 +34,8 @@ export const QuickStartPage: React.FC<QuickStartPageProps> = ({ onNavigate }) =>
         <CodeBlock
           title="Complete Installation to First Audit Sequence"
           code={`# 1. Clone repository
-git clone https://github.com/psv-security/psv-linux-security-auditor
-cd psv-linux-security-auditor
+git clone https://github.com/vishnu123-king/PSV-Linux-Security-Auditor.git
+cd PSV-Linux-Security-Auditor
 
 # 2. Execute automated production setup
 sudo ./install.sh --mode production --with-systemd

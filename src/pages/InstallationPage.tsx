@@ -66,8 +66,8 @@ export const InstallationPage: React.FC<InstallationPageProps> = ({ onNavigate }
         <CodeBlock
           title="Production Installation with Systemd Services"
           code={`# Clone the repository
-git clone https://github.com/psv-security/psv-linux-security-auditor
-cd psv-linux-security-auditor
+git clone https://github.com/vishnu123-king/PSV-Linux-Security-Auditor.git
+cd PSV-Linux-Security-Auditor
 
 # Grant execution permissions
 chmod +x install.sh
