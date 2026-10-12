@@ -40,13 +40,13 @@ export const AuthorPage: React.FC<AuthorPageProps> = ({ onNavigate }) => {
               Technology Researcher & AI/Cloud Infrastructure Builder
             </p>
             <p className="text-xs text-slate-400 mt-1">
-              Academic Background: Digital Cyber Forensic Science
+              Academic Background: Digital and Cyber Forensic Science
             </p>
           </div>
         </div>
 
         <p className="text-slate-300 leading-relaxed">
-          I am a <strong>Technology Researcher and Systems Builder</strong> with an academic background in <strong>Digital Cyber Forensic Science</strong>. My primary interests are at the intersection of <strong>Cybersecurity, Cloud Infrastructure, Linux Systems, AI Agents, Automation, and Experimental Technology Research</strong>.
+          I am a <strong>Technology Researcher and Systems Builder</strong> with an academic background in <strong>Digital and Cyber Forensic Science</strong>. My primary interests are at the intersection of <strong>Cybersecurity, Cloud Infrastructure, Linux Systems, AI Agents, Automation, and Experimental Technology Research</strong>.
         </p>
         <p className="text-slate-300 leading-relaxed">
           My work focuses on understanding how modern technologies operate at the system level and transforming that knowledge into practical, measurable, and reusable solutions.
